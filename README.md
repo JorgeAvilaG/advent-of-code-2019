@@ -11,6 +11,14 @@ Solutions for Advent of Code 2019
 
 ![Day 8](day8.png)
 
+--- Day 12: The N-Body Problem ---
+
+![Day 12](day12.png)
+
+--- Day 13: Care Package ---
+
+![Day 13](day13.png)
+
 --- Day 15: Oxygen System ---
 
 ![Day 15](day15.png)
