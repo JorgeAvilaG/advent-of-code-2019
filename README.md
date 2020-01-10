@@ -1,6 +1,7 @@
 # Advent of Code 2019
 Solutions for Advent of Code 2019
 
+![Completed!!!](50stars.PNG)
 
 #### Some nice visualizations
 ---Day 3: Crossed Wires---
